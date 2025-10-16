@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Giorgio Maarraoui"
+  description: "PhD Candidate in Economics | Climate, Migration, Fiscal Incidence"
+  site-url: https://giorgiomaarraoui.github.io
+  image: img/social-card.png
+  favicon: img/portrait.jpg
+
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - text: Working Papers
+        href: working-papers.qmd
+      - text: Policy Chapters
+        href: policy.qmd
+      - text: Teaching
+        href: teaching.qmd
+
+  page-footer:
+    left: "© {<span id='year'></span>} Giorgio Maarraoui"
+    right: "<a href='mailto:giorgio.maarraoui@manchester.ac.uk'>giorgio.maarraoui@manchester.ac.uk</a> · <a href='https://scholar.google.com/citations?user=YmJMv2wAAAAJ&hl=en'>Scholar</a>"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <script>
+        document.addEventListener('DOMContentLoaded',()=>{
+          const y=document.getElementById('year');
+          if(y){ y.textContent=new Date().getFullYear(); }
+        })
+        </script>
+
+execute:
+  freeze: auto
