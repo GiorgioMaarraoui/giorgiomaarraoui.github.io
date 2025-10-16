@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My full CV is available here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics, University of Manchester (Expected 2026)\nMSc in Economics, University College London\nMA and BA in Economics, American University of Beirut"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\nShort‑Term Consultant, World Bank (Poverty & Equity GP)\nTeaching Assistant, University of Manchester – Intermediate Microeconomic Theory, Mathematical Economics"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nR · Stata · Python · Quarto · Spatial Modelling · Econometrics"
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Policy and Applied Research",
+    "section": "",
+    "text": "Below are selected policy papers and applied studies conducted with international institutions. Full reports are available through the World Bank and IMF websites.\n\n\nThe Role of Fiscal Policy in the Fight Against Poverty and Inequality in Djibouti\nWorld Bank, 2023\nBilal Malaeb, Sandra N. Martinez Aguilar, Cristina L. Carrera Avila, Giorgio Maarraoui, Idriss O. Waais\nThis study evaluates the distributional impact of Djibouti’s fiscal system using the Commitment to Equity (CEQ) methodology. Results show that Djibouti’s fiscal policy is progressive, reducing inequality by roughly eight Gini points in 2017, with further gains achievable through expanded cash transfer programs.\nRead the report →\n\n\n\nTowards a More Equitable Development: Constraints and Opportunities for Women in Djibouti\nWorld Bank, 2023\nBilal Malaeb, Anne-Marie Duplantier, Giorgio Maarraoui, Éloïse Sophie Fluet\nThis gender assessment explores barriers to women’s economic participation in Djibouti, highlighting structural and legal constraints despite progress in education and rights. It provides policy recommendations to enhance equality in economic opportunities, voice, and agency.\nRead the report →\n\n\n\nWillingness to Pay for Clean Air: Evidence from the United Kingdom\nIMF Working Paper No. 23/35, 2023\nGiorgio Maarraoui, Walid Marrouch, Faten Saliba, Ada Wossink\nThis paper estimates individuals’ willingness to pay for cleaner air in the UK using life satisfaction data and ordinal logit models. Exposure to NO₂, PM₁₀, and PM₂.₅ significantly lowers well-being, and the implied willingness to pay rises with education—informing the design of air-quality and climate-mitigation policies.\nDownload the paper →"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "University of Manchester\n\nTeaching Associate (2025 – 2026)\nIntermediate Microeconomics · Mathematical Economics · Applied Microeconometrics (MSc) · Econometrics\n\nTeaching Assistant (2021 – 2025)\nIntermediate Microeconomics · Applied Microeconometrics (MSc) · Microeconomics I & II · Introduction to Mathematical Economics\n\n\n\n\nLebanese American University\n\nTeaching Assistant (2016 – 2020)\nIntermediate Microeconomics · Intermediate Macroeconomics · Econometrics · Mathematical Methods for Economics · Financial Accounting · Managerial Finance · Microeconomic Theory · Macroeconomic Theory · Managerial Statistics\n\n\n\n\nAntonine Sisters School\n\nTeacher (2016 – 2017)\nEconomics"
+  },
+  {
+    "objectID": "working-papers.html",
+    "href": "working-papers.html",
+    "title": "Working Papers",
+    "section": "",
+    "text": "Modelling Climate Shocks, Mobility Frictions, and Conflict in Farmer–Herder Economies\nJob‑market paper. I develop a structural spatial equilibrium model with endogenous trade, migration, and conflict to study adaptation and welfare under counterfactual climate and policy scenarios.\nDraft available upon request.\n\n\nWeather Shocks and Coping Mechanisms of Subsistence Farmers: Evidence from Nigeria\nWorking paper. I study how farmers adjust their planting decisions, input allocations, and crop choices in response to both expected and realized temperature shocks. Using Nigeria’s General Household Survey linked with high-resolution weather data, I quantify how expectations shape adaptation and productivity under climate stress.\nDraft available upon request."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giorgio Maarraoui",
+    "section": "",
+    "text": "PhD Candidate in Economics, University of Manchester\nEconomic Consultant, World Bank\nI am in the final write-up year of my PhD in Economics at the University of Manchester, where my research focuses on climate change, migration, and development. My work combines micro-data analysis, spatial equilibrium modelling, and policy evaluation to understand how climate shocks affect livelihoods and welfare across Sub-Saharan Africa.\nAt the World Bank’s Poverty & Equity Global Practice, I contribute to the Commitment to Equity (CEQ) assessments for Pakistan and Djibouti, analysing the distributional and fiscal impacts of taxes and transfers. This experience bridges my academic research with applied economic policy and quantitative evaluation.\nResearch and policy interests\n- Fiscal incidence, inequality, and public policy - Climate adaptation and welfare analysis\n- Migration, conflict, and spatial development\n- Applied econometrics and causal inference\nQuick links\n- Preview CV\n- Google Scholar\n- ORCID"
+  }
+]
