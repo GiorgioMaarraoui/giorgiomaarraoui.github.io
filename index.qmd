@@ -1,0 +1,23 @@
+---
+title: "Giorgio Maarraoui"
+---
+
+![](img/portrait.jpg){width=200 .rounded .float-left}
+
+**PhD Candidate in Economics, University of Manchester**  
+**Economic Consultant, World Bank**  
+
+I am in the final write-up year of my PhD in Economics at the University of Manchester, where my research focuses on climate change, migration, and development. My work combines **micro-data analysis**, **spatial equilibrium modelling**, and **policy evaluation** to understand how climate shocks affect livelihoods and welfare across Sub-Saharan Africa.  
+
+At the World Bank’s *Poverty & Equity Global Practice*, I contribute to the **Commitment to Equity (CEQ)** assessments for Pakistan and Djibouti, analysing the distributional and fiscal impacts of taxes and transfers. This experience bridges my academic research with applied economic policy and quantitative evaluation.
+
+**Research and policy interests**  
+- Fiscal incidence, inequality, and public policy 
+- Climate adaptation and welfare analysis  
+- Migration, conflict, and spatial development  
+- Applied econometrics and causal inference  
+
+**Quick links**  
+- [Preview CV](cv/Giorgio_Maarraoui_CV.pdf)  
+- [Google Scholar](https://scholar.google.com/citations?user=YmJMv2wAAAAJ&hl=en)  
+- [ORCID](https://orcid.org/0000-0002-2749-5782)

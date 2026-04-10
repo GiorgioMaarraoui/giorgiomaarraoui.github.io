@@ -1,0 +1,15 @@
+---
+title: Working Papers
+---
+
+### Modelling Climate Shocks, Mobility Frictions, and Conflict in Farmer–Herder Economies
+*Job‑market paper.* I develop a structural spatial equilibrium model with endogenous trade, migration, and conflict to study adaptation and welfare under counterfactual climate and policy scenarios.  
+**Draft available upon request.**
+
+### Weather Shocks and Coping Mechanisms of Subsistence Farmers: Evidence from Nigeria
+*Working paper.* I study how farmers adjust their planting decisions, input allocations, and crop choices in response to both expected and realized temperature shocks. Using Nigeria’s General Household Survey linked with high-resolution weather data, I quantify how expectations shape adaptation and productivity under climate stress.  
+**Draft available upon request.**
+
+### Climate Shocks and Conflict Transitions in Transhumant Africa
+*Working paper.* I study how climate shocks affect the trajectory of farmer–herder conflict in transhumant regions of Africa, focusing on how rainfall shocks disrupt migration corridors and reshape interactions. Using high-resolution conflict, climate, and ethnographic data, I show that these shocks operate asymmetrically across margins: they trigger first-time state-based conflict in previously peaceful areas through resource competition, but do not explain renewed violence in historically conflict-prone locations. After onset, shocks also sustain conflict in its early stages, with persistence amplified by hierarchical organisation and retaliatory norms, highlighting the state-dependent nature of climate–conflict dynamics.
+**Draft available upon request.**
