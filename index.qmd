@@ -4,9 +4,8 @@ title: "Giorgio Maarraoui"
 
 ::: {.hero-panel}
 ::: {.hero-grid}
+::: {.hero-main}
 ::: {.hero-copy}
-![](img/portrait.jpg){width=190 .portrait}
-
 ## Economist | Applied Scientist
 
 I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market research**, and **applied data analytics**. My work combines rigorous empirical design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
@@ -50,6 +49,11 @@ Economic Consultant, Poverty & Equity Global Practice
 - [ORCID](https://orcid.org/0000-0002-2749-5782)
 - [Teaching](teaching.qmd)
 :::
+:::
+:::
+
+::: {.hero-media}
+![](img/portrait.jpg){width=250 .portrait}
 :::
 :::
 :::
