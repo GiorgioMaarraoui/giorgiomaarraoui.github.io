@@ -2,11 +2,21 @@
 title: Teaching Experience
 ---
 
+I teach across microeconomics, econometrics, and quantitative methods, with experience spanning undergraduate and MSc instruction, tutorials, seminars, and course design.
+
 ### University of Manchester
 - **Teaching Associate (2025 – 2026)**  
   *Intermediate Microeconomics* · *Mathematical Economics* · *Applied Microeconometrics (MSc)* · *Econometrics*  
 - **Teaching Assistant (2021 – 2025)**  
   *Intermediate Microeconomics* · *Applied Microeconometrics (MSc)* · *Microeconomics I & II* · *Introduction to Mathematical Economics*
+
+---
+
+### Lecturing and Course Development
+
+- Delivered lectures and teaching support in core economics and econometrics modules.
+- Redesigned the **MSc Applied Microeconometrics** course to improve structure, empirical coherence, and student engagement.
+- Taught students with diverse quantitative backgrounds across undergraduate and postgraduate programmes.
 
 ---
 

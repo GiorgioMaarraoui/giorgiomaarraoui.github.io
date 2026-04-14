@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Giorgio Maarraoui"
-  description: "PhD Candidate in Economics | Climate, Migration, Fiscal Incidence"
+  description: "Economics researcher working on climate, development, fiscal incidence, and applied microeconometrics"
   site-url: https://giorgiomaarraoui.github.io
   image: img/social-card.png
   favicon: img/portrait.jpg
@@ -15,7 +15,7 @@ website:
         href: index.qmd
       - text: Working Papers
         href: working-papers.qmd
-      - text: Policy Chapters
+      - text: Policy Research
         href: policy.qmd
       - text: Teaching
         href: teaching.qmd

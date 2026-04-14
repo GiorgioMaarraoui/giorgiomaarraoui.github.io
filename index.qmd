@@ -2,22 +2,61 @@
 title: "Giorgio Maarraoui"
 ---
 
-![](img/portrait.jpg){width=200 .rounded .float-left}
+::: {.hero-panel}
+::: {.hero-grid}
+::: {.hero-copy}
+![](img/portrait.jpg){width=190 .portrait}
 
-**PhD Candidate in Economics, University of Manchester**  
-**Economic Consultant, World Bank**  
+## PhD Candidate in Economics  
+University of Manchester
 
-I am in the final write-up year of my PhD in Economics at the University of Manchester, where my research focuses on climate change, migration, and development. My work combines **micro-data analysis**, **spatial equilibrium modelling**, and **policy evaluation** to understand how climate shocks affect livelihoods and welfare across Sub-Saharan Africa.  
+I work on **climate change, development, public economics, and applied microeconometrics**, with a focus on how climate shocks shape adaptation, conflict, migration, and welfare in Sub-Saharan Africa. My research combines **household micro-data**, **high-resolution spatial data**, and **structural spatial equilibrium modelling** to study both mechanisms and policy counterfactuals.
 
-At the World Bank’s *Poverty & Equity Global Practice*, I contribute to the **Commitment to Equity (CEQ)** assessments for Pakistan and Djibouti, analysing the distributional and fiscal impacts of taxes and transfers. This experience bridges my academic research with applied economic policy and quantitative evaluation.
+Alongside my academic work, I contribute to applied distributional analysis at the **World Bank Poverty & Equity Global Practice**, where I work on **Commitment to Equity (CEQ)** assessments and related fiscal-incidence research.
+:::
 
-**Research and policy interests**  
-- Fiscal incidence, inequality, and public policy 
-- Climate adaptation and welfare analysis  
-- Migration, conflict, and spatial development  
-- Applied econometrics and causal inference  
+::: {.hero-aside}
+### Current Roles
 
-**Quick links**  
-- [Preview CV](cv/Giorgio_Maarraoui_CV.pdf)  
-- [Google Scholar](https://scholar.google.com/citations?user=YmJMv2wAAAAJ&hl=en)  
+**University of Manchester**  
+PhD Candidate in Economics
+
+**World Bank**  
+Economic Consultant, Poverty & Equity Global Practice
+
+### Research Areas
+
+- Climate adaptation and welfare
+- Fiscal incidence and inequality
+- Migration, conflict, and spatial development
+- Applied econometrics and policy evaluation
+
+### Links
+
+- [CV](cv/Giorgio_Maarraoui_CV.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=YmJMv2wAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-2749-5782)
+- [Teaching](teaching.qmd)
+:::
+:::
+:::
+
+::: {.section-grid}
+::: {.feature-card}
+### Research Agenda
+
+My dissertation develops a unified research agenda on the economics of climate stress. The three core papers examine: how Nigerian farm households adapt production decisions to heat shocks; how rainfall shocks alter conflict transitions in transhumant Africa; and how climate shocks, migration frictions, trade, and conflict interact in spatial equilibrium. Together, the papers connect micro-level adaptation to regional welfare outcomes.
+:::
+
+::: {.feature-card}
+### Ongoing Applied Work
+
+At the World Bank, I work on fiscal-incidence and equity analysis using the CEQ framework. Current projects include **forthcoming 2025 CEQ studies for Pakistan and Djibouti**, alongside earlier work on poverty, inequality, and gender in Djibouti. This policy work complements my academic research by extending distributional analysis into directly policy-relevant settings.
+:::
+:::
+
+::: {.feature-card}
+### Teaching and Course Design
+
+I teach across microeconomics and econometrics at the University of Manchester, including **Intermediate Microeconomics**, **Econometrics**, and **Applied Microeconometrics (MSc)**. I have also **lectured and redesigned the MSc Microeconometrics course**, strengthening its empirical focus, structure, and delivery.
+:::
