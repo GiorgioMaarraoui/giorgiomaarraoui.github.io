@@ -7,6 +7,20 @@ title: "Giorgio Maarraoui"
 ::: {.hero-copy}
 ![](img/portrait.jpg){width=190 .portrait}
 
+## Economist | Applied Scientist
+
+I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market research**, and **applied data analytics**. My work combines rigorous empirical design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
+
+Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice**, where I contribute to **Commitment to Equity (CEQ)** assessments and broader fiscal-incidence analysis. Across academic and applied settings, I work on problems that involve behaviour, incentives, segmentation, distributional outcomes, and the effects of policy or market changes.
+
+::: {.signal-row}
+`Econometrics`
+`Causal Inference`
+`Market Research`
+`Policy Evaluation`
+`Data Analytics`
+:::
+
 ::: {.hero-aside}
 ### Current Roles
 
@@ -36,20 +50,6 @@ Economic Consultant, Poverty & Equity Global Practice
 - [Teaching](teaching.qmd)
 :::
 :::
-:::
-
-## Economist | Applied Scientist
-
-I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market research**, and **applied data analytics**. My work combines rigorous empirical design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
-
-Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice**, where I contribute to **Commitment to Equity (CEQ)** assessments and broader fiscal-incidence analysis. Across academic and applied settings, I work on problems that involve behaviour, incentives, segmentation, distributional outcomes, and the effects of policy or market changes.
-
-::: {.signal-row}
-`Econometrics`
-`Causal Inference`
-`Market Research`
-`Policy Evaluation`
-`Data Analytics`
 :::
 :::
 :::
