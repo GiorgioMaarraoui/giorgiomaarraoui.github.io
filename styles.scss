@@ -119,8 +119,8 @@ h1, h2, h3, h4 {
   font-size: 2.35rem;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
-  max-width: 12ch;
   line-height: 0.96;
+  white-space: nowrap;
 }
 
 .hero-copy p:first-of-type {
@@ -166,6 +166,11 @@ li {
   border-left: 4px solid rgba(15, 94, 156, 0.22);
   box-shadow: var(--shadow-tight);
   max-width: 720px;
+}
+
+.hero-aside strong {
+  color: var(--ink);
+  font-weight: 600;
 }
 
 .hero-aside ul,
