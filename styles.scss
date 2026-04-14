@@ -22,9 +22,12 @@ $headings-color: #0f1c28;
 body {
   font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
   background:
+    linear-gradient(rgba(15, 94, 156, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(15, 94, 156, 0.035) 1px, transparent 1px),
     radial-gradient(circle at top left, rgba(15, 94, 156, 0.14), transparent 30%),
     radial-gradient(circle at bottom right, rgba(79, 98, 116, 0.12), transparent 26%),
     linear-gradient(180deg, #f4f8fb 0%, #edf3f8 100%);
+  background-size: 30px 30px, 30px 30px, auto, auto, auto;
 }
 
 .navbar {
@@ -61,6 +64,7 @@ h1, h2, h3, h4 {
     linear-gradient(135deg, rgba(255, 255, 255, 0.94) 0%, rgba(236, 245, 252, 0.88) 100%);
   position: relative;
   overflow: hidden;
+  border-radius: 28px;
 }
 
 .hero-panel::after {
@@ -71,6 +75,14 @@ h1, h2, h3, h4 {
   height: 280px;
   background: radial-gradient(circle, rgba(15, 94, 156, 0.12), transparent 66%);
   pointer-events: none;
+}
+
+.hero-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 6px;
+  background: linear-gradient(180deg, #0f5e9c 0%, #54a3d8 100%);
 }
 
 .hero-grid,
@@ -96,6 +108,25 @@ h1, h2, h3, h4 {
   color: var(--accent-strong);
 }
 
+.signal-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1rem;
+}
+
+.signal-row code {
+  font-family: "Avenir Next Condensed", "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+  font-size: 0.88rem;
+  letter-spacing: 0.03em;
+  color: var(--accent-strong);
+  background: rgba(15, 94, 156, 0.09);
+  border: 1px solid rgba(15, 94, 156, 0.14);
+  border-radius: 999px;
+  padding: 0.42rem 0.72rem;
+  white-space: nowrap;
+}
+
 .hero-copy p,
 .hero-aside p,
 li {
@@ -110,6 +141,7 @@ li {
 
 .hero-aside {
   background: var(--panel-strong);
+  border-left: 4px solid rgba(15, 94, 156, 0.22);
 }
 
 .hero-aside ul,
@@ -128,6 +160,15 @@ li {
 .feature-card,
 .paper-card {
   margin-bottom: 1rem;
+  border-left: 4px solid rgba(15, 94, 156, 0.18);
+  transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+}
+
+.feature-card:hover,
+.paper-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 22px 52px rgba(17, 32, 45, 0.12);
+  border-left-color: rgba(15, 94, 156, 0.48);
 }
 
 .hero-aside h3,
@@ -156,15 +197,17 @@ a:hover {
 .hero-aside a,
 .flat-list a {
   display: inline-block;
-  padding: 0.18rem 0.52rem;
+  padding: 0.36rem 0.72rem;
   border-radius: 999px;
-  background: rgba(15, 94, 156, 0.08);
-  transition: background-color 180ms ease, transform 180ms ease;
+  background: rgba(15, 94, 156, 0.10);
+  border: 1px solid rgba(15, 94, 156, 0.12);
+  transition: background-color 180ms ease, transform 180ms ease, border-color 180ms ease;
 }
 
 .hero-aside a:hover,
 .flat-list a:hover {
-  background: rgba(15, 94, 156, 0.16);
+  background: rgba(15, 94, 156, 0.18);
+  border-color: rgba(15, 94, 156, 0.28);
   text-decoration: none;
   transform: translateY(-1px);
 }
