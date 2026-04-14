@@ -1,5 +1,5 @@
 ---
-title: "Economist | Applied Scientist"
+title: "Giorgio Maarraoui"
 ---
 
 ::: {.hero-panel}
@@ -8,7 +8,6 @@ title: "Economist | Applied Scientist"
 ![](img/portrait.jpg){width=190 .portrait}
 
 ## Economist | Applied Scientist
-PhD in Economics, University of Manchester
 
 I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market research**, and **applied data analytics**. My work combines rigorous empirical design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
 
@@ -19,7 +18,8 @@ Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice*
 ### Current Roles
 
 **University of Manchester**  
-Economist and Quantitative Researcher
+PhD in Economics  
+Expected completion: May 2026
 
 **World Bank**  
 Economic Consultant, Poverty & Equity Global Practice
