@@ -2,11 +2,11 @@
 title: Working Papers
 ---
 
-The dissertation papers below form a connected research agenda on climate stress, adaptation, conflict, and welfare in Sub-Saharan Africa.
+Selected research papers on climate, welfare, conflict, and behavioural adjustment in data-constrained environments.
 
 ::: {.paper-card}
 ### Modelling Climate Shocks, Mobility Frictions, and Conflict in Farmer-Herder Economies
-*Job market paper.*
+*Lead paper.*
 
 This paper develops and calibrates a spatial general equilibrium model to quantify how climate change affects migration decisions, market adjustments, real incomes, and welfare for farmers and herders in Sub-Saharan Africa. It shows that climate damages are highly uneven across space, with particularly large losses in the Sahel, and that trade and migration partly cushion welfare losses while conflict intensifies. I use the model to evaluate climate-adaptation policies, showing that reducing frictions, especially trade costs, delivers broader and more balanced welfare gains than land expansion policies.
 

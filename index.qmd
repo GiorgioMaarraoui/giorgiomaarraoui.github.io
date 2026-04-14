@@ -7,32 +7,35 @@ title: "Giorgio Maarraoui"
 ::: {.hero-copy}
 ![](img/portrait.jpg){width=190 .portrait}
 
-## PhD Candidate in Economics  
-University of Manchester
+## Economist | Market Research | Data Analytics
+PhD in Economics, University of Manchester
 
-I work on **climate change, development, public economics, and applied microeconometrics**, with a focus on how climate shocks shape adaptation, conflict, migration, and welfare in Sub-Saharan Africa. My research combines **household micro-data**, **high-resolution spatial data**, and **structural spatial equilibrium modelling** to study both mechanisms and policy counterfactuals.
+I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market and welfare analysis**, and **applied data analytics**. My work combines rigorous econometric design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
 
-Alongside my academic work, I contribute to applied distributional analysis at the **World Bank Poverty & Equity Global Practice**, where I work on **Commitment to Equity (CEQ)** assessments and related fiscal-incidence research.
+Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice**, where I contribute to **Commitment to Equity (CEQ)** assessments and broader fiscal-incidence analysis. Across academic and applied settings, I build evidence on how shocks, incentives, and institutions shape behaviour, distributional outcomes, and policy performance.
 :::
 
 ::: {.hero-aside}
 ### Current Roles
 
 **University of Manchester**  
-PhD Candidate in Economics
+PhD Economist and Quantitative Researcher
 
 **World Bank**  
 Economic Consultant, Poverty & Equity Global Practice
 
 ### Research Areas
 
-- Climate adaptation and welfare
-- Fiscal incidence and inequality
-- Migration, conflict, and spatial development
-- Applied econometrics and policy evaluation
+::: {.flat-list}
+- Causal inference and quasi-experimental design
+- Market research and behavioural analysis
+- Data analytics, segmentation, and forecasting
+- Policy evaluation, welfare, and distributional analysis
+:::
 
 ### Links
 
+::: {.flat-list}
 - [CV](cv/Giorgio_Maarraoui_CV.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=YmJMv2wAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-2749-5782)
@@ -41,22 +44,20 @@ Economic Consultant, Poverty & Equity Global Practice
 :::
 :::
 
-::: {.section-grid}
 ::: {.feature-card}
-### Research Agenda
+### Analytical Profile
 
-My dissertation develops a unified research agenda on the economics of climate stress. The three core papers examine: how Nigerian farm households adapt production decisions to heat shocks; how rainfall shocks alter conflict transitions in transhumant Africa; and how climate shocks, migration frictions, trade, and conflict interact in spatial equilibrium. Together, the papers connect micro-level adaptation to regional welfare outcomes.
+My background is grounded in the type of analytical work valued by research, strategy, and economics teams in industry: defining hard questions precisely, building credible identification strategies, linking multiple data sources, and translating results into clear implications. I work comfortably across **econometrics**, **causal design**, **survey and observational data**, **high-dimensional spatial datasets**, and **decision-focused communication**.
 :::
 
 ::: {.feature-card}
 ### Ongoing Applied Work
 
-At the World Bank, I work on fiscal-incidence and equity analysis using the CEQ framework. Current projects include **forthcoming 2025 CEQ studies for Pakistan and Djibouti**, alongside earlier work on poverty, inequality, and gender in Djibouti. This policy work complements my academic research by extending distributional analysis into directly policy-relevant settings.
-:::
+At the World Bank, I work on fiscal-incidence and equity analysis using the CEQ framework. Current projects include **forthcoming 2025 CEQ studies for Pakistan and Djibouti**, alongside earlier work on poverty, inequality, and gender in Djibouti. The work involves large administrative and household datasets, distributional modelling, policy counterfactuals, and concise communication for decision-makers.
 :::
 
 ::: {.feature-card}
 ### Teaching and Course Design
 
-I teach across microeconomics and econometrics at the University of Manchester, including **Intermediate Microeconomics**, **Econometrics**, and **Applied Microeconometrics (MSc)**. I have also **lectured and redesigned the MSc Microeconometrics course**, strengthening its empirical focus, structure, and delivery.
+I teach across microeconomics and econometrics at the University of Manchester, including **Intermediate Microeconomics**, **Econometrics**, and **Applied Microeconometrics (MSc)**. I have also **lectured and redesigned the MSc Microeconometrics course**, strengthening its empirical focus, structure, and delivery. That experience sharpened my ability to explain technical ideas clearly, structure quantitative material, and make empirical evidence usable for different audiences.
 :::
