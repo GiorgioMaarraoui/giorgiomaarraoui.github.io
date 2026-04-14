@@ -13,10 +13,11 @@ $headings-color: #0f1c28;
   --accent: #0f5e9c;
   --accent-strong: #0c3f68;
   --accent-soft: #d6e7f5;
-  --panel: rgba(255, 255, 255, 0.82);
-  --panel-strong: rgba(244, 249, 253, 0.95);
+  --panel: rgba(255, 255, 255, 0.84);
+  --panel-strong: rgba(248, 251, 254, 0.96);
   --line: rgba(15, 94, 156, 0.14);
-  --shadow: 0 18px 48px rgba(17, 32, 45, 0.08);
+  --shadow: 0 20px 60px rgba(17, 32, 45, 0.08);
+  --shadow-tight: 0 12px 28px rgba(17, 32, 45, 0.06);
 }
 
 body {
@@ -31,9 +32,14 @@ body {
 }
 
 .navbar {
-  box-shadow: 0 8px 26px rgba(17, 32, 45, 0.06);
+  box-shadow: 0 10px 28px rgba(17, 32, 45, 0.05);
   border-bottom: 1px solid rgba(15, 94, 156, 0.08);
   backdrop-filter: blur(10px);
+  background: rgba(245, 250, 254, 0.76);
+}
+
+.navbar-container {
+  max-width: 1180px;
 }
 
 .navbar-brand,
@@ -44,8 +50,21 @@ h1, h2, h3, h4 {
 }
 
 .quarto-title h1 {
-  font-size: 2.6rem;
-  margin-bottom: 1.25rem;
+  font-size: 2.85rem;
+  margin-bottom: 1.4rem;
+  letter-spacing: 0.015em;
+}
+
+.nav-link {
+  font-size: 0.98rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.nav-link:hover,
+.nav-link.active {
+  color: var(--accent-strong) !important;
 }
 
 .hero-panel,
@@ -58,13 +77,13 @@ h1, h2, h3, h4 {
 }
 
 .hero-panel {
-  padding: 2rem;
-  margin-bottom: 1.5rem;
+  padding: 2.35rem;
+  margin-bottom: 1.7rem;
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.94) 0%, rgba(236, 245, 252, 0.88) 100%);
   position: relative;
   overflow: hidden;
-  border-radius: 28px;
+  border-radius: 30px;
 }
 
 .hero-panel::after {
@@ -88,7 +107,7 @@ h1, h2, h3, h4 {
 .hero-grid,
 .section-grid {
   display: grid;
-  gap: 1.25rem;
+  gap: 1.4rem;
 }
 
 .hero-grid {
@@ -97,34 +116,37 @@ h1, h2, h3, h4 {
 }
 
 .hero-copy h2 {
-  font-size: 2.15rem;
+  font-size: 2.35rem;
   margin-top: 1rem;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.5rem;
   max-width: 12ch;
+  line-height: 0.96;
 }
 
 .hero-copy p:first-of-type {
-  font-size: 1.08rem;
+  font-size: 1.12rem;
   color: var(--accent-strong);
 }
 
 .signal-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.55rem;
-  margin-top: 1rem;
+  gap: 0.65rem;
+  margin-top: 1.15rem;
 }
 
 .signal-row code {
   font-family: "Avenir Next Condensed", "Arial Narrow", "Franklin Gothic Medium", sans-serif;
-  font-size: 0.88rem;
-  letter-spacing: 0.03em;
+  font-size: 0.84rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
   color: var(--accent-strong);
-  background: rgba(15, 94, 156, 0.09);
+  background: rgba(255, 255, 255, 0.76);
   border: 1px solid rgba(15, 94, 156, 0.14);
   border-radius: 999px;
-  padding: 0.42rem 0.72rem;
+  padding: 0.48rem 0.78rem;
   white-space: nowrap;
+  box-shadow: var(--shadow-tight);
 }
 
 .hero-copy p,
@@ -136,12 +158,13 @@ li {
 .hero-aside,
 .feature-card,
 .paper-card {
-  padding: 1.25rem 1.35rem;
+  padding: 1.35rem 1.45rem;
 }
 
 .hero-aside {
   background: var(--panel-strong);
   border-left: 4px solid rgba(15, 94, 156, 0.22);
+  box-shadow: var(--shadow-tight);
 }
 
 .hero-aside ul,
@@ -159,7 +182,7 @@ li {
 
 .feature-card,
 .paper-card {
-  margin-bottom: 1rem;
+  margin-bottom: 1.15rem;
   border-left: 4px solid rgba(15, 94, 156, 0.18);
   transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
 }
@@ -176,11 +199,15 @@ li {
 .paper-card h3 {
   color: var(--ink);
   margin-top: 0;
+  margin-bottom: 0.85rem;
+  font-size: 1.22rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .portrait {
-  border-radius: 18px;
-  box-shadow: 0 18px 38px rgba(15, 63, 104, 0.16);
+  border-radius: 22px;
+  box-shadow: 0 24px 46px rgba(15, 63, 104, 0.16);
   border: 1px solid rgba(15, 94, 156, 0.12);
 }
 
@@ -197,19 +224,20 @@ a:hover {
 .hero-aside a,
 .flat-list a {
   display: inline-block;
-  padding: 0.36rem 0.72rem;
+  padding: 0.42rem 0.82rem;
   border-radius: 999px;
-  background: rgba(15, 94, 156, 0.10);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(222, 237, 248, 0.95));
   border: 1px solid rgba(15, 94, 156, 0.12);
   transition: background-color 180ms ease, transform 180ms ease, border-color 180ms ease;
+  box-shadow: 0 8px 16px rgba(15, 94, 156, 0.08);
 }
 
 .hero-aside a:hover,
 .flat-list a:hover {
-  background: rgba(15, 94, 156, 0.18);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(209, 230, 245, 1));
   border-color: rgba(15, 94, 156, 0.28);
   text-decoration: none;
-  transform: translateY(-1px);
+  transform: translateY(-2px);
 }
 
 .hero-panel,
@@ -223,15 +251,15 @@ a:hover {
 
 /* Typography spacing */
 p {
-  line-height: 1.72;
-  margin: 0 0 0.82rem 0;
-  font-size: 1.03rem;
+  line-height: 1.76;
+  margin: 0 0 0.9rem 0;
+  font-size: 1.045rem;
 }
 ul, ol { margin: 0.3rem 0 1rem 1.2rem; }
 
 h3 {
   margin-top: 1.6rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.65rem;
   font-size: 1.3rem;
 }
 ul { margin-bottom: 1.2rem; }
@@ -244,6 +272,10 @@ hr {
 
 main.content {
   padding-bottom: 2rem;
+}
+
+#quarto-document-content {
+  max-width: 1120px;
 }
 
 @keyframes rise-in {
