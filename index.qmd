@@ -1,5 +1,5 @@
 ---
-title: "Giorgio Maarraoui"
+title: "Economist | Applied Scientist"
 ---
 
 ::: {.hero-panel}
@@ -7,30 +7,31 @@ title: "Giorgio Maarraoui"
 ::: {.hero-copy}
 ![](img/portrait.jpg){width=190 .portrait}
 
-## Economist | Market Research | Data Analytics
+## Economist | Applied Scientist
 PhD in Economics, University of Manchester
 
-I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market and welfare analysis**, and **applied data analytics**. My work combines rigorous econometric design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
+I am an economist and quantitative researcher with experience spanning **causal inference**, **policy evaluation**, **market research**, and **applied data analytics**. My work combines rigorous empirical design with large, messy real-world datasets to answer decision-relevant questions clearly and defensibly.
 
-Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice**, where I contribute to **Commitment to Equity (CEQ)** assessments and broader fiscal-incidence analysis. Across academic and applied settings, I build evidence on how shocks, incentives, and institutions shape behaviour, distributional outcomes, and policy performance.
+Alongside my PhD, I work with the **World Bank Poverty & Equity Global Practice**, where I contribute to **Commitment to Equity (CEQ)** assessments and broader fiscal-incidence analysis. Across academic and applied settings, I work on problems that involve behaviour, incentives, segmentation, distributional outcomes, and the effects of policy or market changes.
 :::
 
 ::: {.hero-aside}
 ### Current Roles
 
 **University of Manchester**  
-PhD Economist and Quantitative Researcher
+Economist and Quantitative Researcher
 
 **World Bank**  
 Economic Consultant, Poverty & Equity Global Practice
 
-### Research Areas
+### Focus Areas
 
 ::: {.flat-list}
 - Causal inference and quasi-experimental design
+- Applied economics and decision science
 - Market research and behavioural analysis
 - Data analytics, segmentation, and forecasting
-- Policy evaluation, welfare, and distributional analysis
+- Policy evaluation and distributional impact
 :::
 
 ### Links
@@ -43,21 +44,22 @@ Economic Consultant, Poverty & Equity Global Practice
 :::
 :::
 :::
+:::
 
 ::: {.feature-card}
-### Analytical Profile
+### What I Do
 
-My background is grounded in the type of analytical work valued by research, strategy, and economics teams in industry: defining hard questions precisely, building credible identification strategies, linking multiple data sources, and translating results into clear implications. I work comfortably across **econometrics**, **causal design**, **survey and observational data**, **high-dimensional spatial datasets**, and **decision-focused communication**.
+I work on analytical problems that require more than dashboard reporting: defining the right question, building a credible design, combining multiple datasets, and producing findings that can support real decisions. My toolkit includes **econometrics**, **causal inference**, **observational and survey data analysis**, **high-dimensional spatial and household data**, and clear communication of uncertainty, trade-offs, and impact.
 :::
 
 ::: {.feature-card}
 ### Ongoing Applied Work
 
-At the World Bank, I work on fiscal-incidence and equity analysis using the CEQ framework. Current projects include **forthcoming 2025 CEQ studies for Pakistan and Djibouti**, alongside earlier work on poverty, inequality, and gender in Djibouti. The work involves large administrative and household datasets, distributional modelling, policy counterfactuals, and concise communication for decision-makers.
+At the World Bank, I work on fiscal-incidence and equity analysis using the CEQ framework. Current projects include **forthcoming 2025 CEQ studies for Pakistan and Djibouti**, alongside earlier work on poverty, inequality, and gender in Djibouti. The work involves linking large household and policy datasets, measuring who gains and loses under alternative policy designs, and turning technical analysis into concise outputs for decision-makers.
 :::
 
 ::: {.feature-card}
-### Teaching and Course Design
+### Research and Writing
 
-I teach across microeconomics and econometrics at the University of Manchester, including **Intermediate Microeconomics**, **Econometrics**, and **Applied Microeconometrics (MSc)**. I have also **lectured and redesigned the MSc Microeconometrics course**, strengthening its empirical focus, structure, and delivery. That experience sharpened my ability to explain technical ideas clearly, structure quantitative material, and make empirical evidence usable for different audiences.
+My research papers focus on adaptation, conflict, welfare, and policy under uncertainty, but the transferable strength is broader: framing ambiguous problems, designing credible analysis, and extracting usable insights from imperfect data. That combination is relevant well beyond academia, including roles in economics, experimentation, strategy, risk, and data-driven product or policy teams.
 :::

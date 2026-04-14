@@ -2,7 +2,7 @@
 title: Policy and Applied Research
 ---
 
-This page lists selected policy papers and applied research with international institutions. The focus is on distributional analysis, fiscal incidence, inequality, and policy evaluation.
+This page lists selected applied projects and policy research with international institutions. The common thread is decision-focused analysis: measuring impact, identifying distributional effects, and turning complex empirical work into clear evidence for policy and strategy.
 
 ### Current Work
 
@@ -28,7 +28,7 @@ Ongoing CEQ work extending fiscal-incidence analysis for Djibouti and evaluating
 ### The Role of Fiscal Policy in the Fight Against Poverty and Inequality in Djibouti  
 **World Bank, 2023**  
 *Bilal Malaeb, Sandra N. Martinez Aguilar, Cristina L. Carrera Avila, Giorgio Maarraoui, Idriss O. Waais*  
-This study evaluates the distributional impact of Djibouti’s fiscal system using the Commitment to Equity (CEQ) methodology. Results show that Djibouti’s fiscal policy is progressive, reducing inequality by roughly eight Gini points in 2017, with further gains achievable through expanded cash transfer programs.  
+This study evaluates the distributional impact of Djibouti’s fiscal system using the Commitment to Equity (CEQ) methodology. Results show that Djibouti’s fiscal policy is progressive, reducing inequality by roughly eight Gini points in 2017, with further gains achievable through expanded cash transfer programs. The paper combines rigorous incidence analysis with practical recommendations on targeting and fiscal design.  
 [Read the report →](https://documents1.worldbank.org/curated/en/099062223112522461/pdf/P1745720795cc20d10b03e00aeaea566192.pdf)
 :::
 
@@ -38,7 +38,7 @@ This study evaluates the distributional impact of Djibouti’s fiscal system usi
 ### Towards a More Equitable Development: Constraints and Opportunities for Women in Djibouti  
 **World Bank, 2023**  
 *Bilal Malaeb, Anne-Marie Duplantier, Giorgio Maarraoui, Éloïse Sophie Fluet*  
-This gender assessment explores barriers to women’s economic participation in Djibouti, highlighting structural and legal constraints despite progress in education and rights. It provides policy recommendations to enhance equality in economic opportunities, voice, and agency.  
+This gender assessment explores barriers to women’s economic participation in Djibouti, highlighting structural and legal constraints despite progress in education and rights. It combines quantitative and institutional analysis to identify where policy changes could improve participation, agency, and opportunity.  
 [Read the report →](https://documents1.worldbank.org/curated/en/099144503072326351/pdf/P1745720d9a9900f10bdee053e47bad279e.pdf)
 :::
 
@@ -48,6 +48,6 @@ This gender assessment explores barriers to women’s economic participation in 
 ### Willingness to Pay for Clean Air: Evidence from the United Kingdom  
 **IMF Working Paper No. 23/35, 2023**  
 *Giorgio Maarraoui, Walid Marrouch, Faten Saliba, Ada Wossink*  
-This paper estimates individuals’ **willingness to pay for cleaner air** in the UK using life satisfaction data and ordinal logit models. Exposure to NO₂, PM₁₀, and PM₂.₅ significantly lowers well-being, and the implied willingness to pay rises with education—informing the design of air-quality and climate-mitigation policies.  
+This paper estimates individuals’ **willingness to pay for cleaner air** in the UK using life satisfaction data and ordinal logit models. Exposure to NO₂, PM₁₀, and PM₂.₅ significantly lowers well-being, and the implied willingness to pay rises with education. The paper shows how behavioural and welfare metrics can be used to value non-market outcomes in policy design.  
 [Download the paper →](https://www.imf.org/-/media/Files/Publications/WP/2023/English/wpiea2023035-print-pdf.ashx)
 :::
