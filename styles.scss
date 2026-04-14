@@ -111,18 +111,13 @@ h1, h2, h3, h4 {
 }
 
 .hero-grid {
-  grid-template-columns: minmax(0, 1.65fr) minmax(260px, 0.9fr);
-  align-items: stretch;
-}
-
-.hero-main {
-  display: grid;
-  gap: 1.2rem;
+  grid-template-columns: minmax(0, 1.9fr) minmax(280px, 1fr);
+  align-items: start;
 }
 
 .hero-copy h2 {
   font-size: 2.35rem;
-  margin-top: 0.2rem;
+  margin-top: 1rem;
   margin-bottom: 0.5rem;
   max-width: 12ch;
   line-height: 0.96;
@@ -170,32 +165,6 @@ li {
   background: var(--panel-strong);
   border-left: 4px solid rgba(15, 94, 156, 0.22);
   box-shadow: var(--shadow-tight);
-  align-self: end;
-}
-
-.hero-media {
-  display: flex;
-  align-items: stretch;
-  justify-content: center;
-  min-height: 100%;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(226, 239, 248, 0.94));
-  border: 1px solid rgba(15, 94, 156, 0.12);
-  border-radius: 26px;
-  box-shadow: var(--shadow-tight);
-  padding: 1.4rem;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-media::after {
-  content: "";
-  position: absolute;
-  inset: auto auto -18% -12%;
-  width: 220px;
-  height: 220px;
-  background: radial-gradient(circle, rgba(15, 94, 156, 0.14), transparent 68%);
-  pointer-events: none;
 }
 
 .hero-aside ul,
@@ -240,9 +209,6 @@ li {
   border-radius: 22px;
   box-shadow: 0 24px 46px rgba(15, 63, 104, 0.16);
   border: 1px solid rgba(15, 94, 156, 0.12);
-  width: 100%;
-  max-width: 290px;
-  object-fit: cover;
 }
 
 a {
@@ -331,10 +297,6 @@ main.content {
 
   .hero-panel {
     padding: 1.3rem;
-  }
-
-  .hero-media {
-    min-height: auto;
   }
 
   .quarto-title h1 {
